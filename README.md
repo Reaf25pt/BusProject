@@ -80,7 +80,7 @@ Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma
 
 ## Arquitetura do projeto 📏
 
-<img src="https://github.com/Reaf25pt/BusProject/Busproject_uml.png">
+<img src="https://github.com/Reaf25pt/BusProject/blob/main/Busproject_uml.png"/>
 
 
 
