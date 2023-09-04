@@ -82,6 +82,14 @@ Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma
 
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/Busproject_uml.png"/>
 
+## Imagens do layout 🖼️
+
+### Utilizador
+
+
+
+
+
 
 
 
