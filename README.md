@@ -1,4 +1,4 @@
-<img src="https://github.com/Reaf25pt/BusProject/blob/main/capa.jpg"/>
+<img  width="1000" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/capa.jpg"/>
 
 
 
