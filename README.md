@@ -87,7 +87,8 @@ Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma
 ### Utilizador
 
 <div float="left">
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.JPG" alt="login"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.JPG"/>
 </div>
 
 
