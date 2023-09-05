@@ -82,14 +82,25 @@ Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma
 
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/Busproject_uml.png"/>
 
-## Imagens do layout 🖼️
+<h1>Imagens do layout 🖼️</h1> 
 
-### Utilizador
+<h2>Utilizador</h2>
 
-<div float="left">
+<div align="center">
 <img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.JPG"/>
 <img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.JPG"/>
 </div>
+
+<h2>Administrador</h2>
+<div align="center">
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.JPG"/>
+</div>
+
+
+
 
 
 
