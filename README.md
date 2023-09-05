@@ -1,3 +1,7 @@
+<img src="https://github.com/Reaf25pt/BusProject/blob/main/capa.jpg"/>
+
+
+
 # Projeto dos autocarros 🚌
 
 ## Objetivo do projeto ⭐
