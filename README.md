@@ -16,6 +16,7 @@ O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.s
 
 ## Requisitos 📋
 
+<div align='center'>
 <table >
   <tr>
     <th></th>
@@ -84,6 +85,7 @@ O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.s
   </tr>
   
 </table>
+</div>
 
 ## Arquitetura do projeto 📏
 
@@ -99,7 +101,7 @@ O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.s
 </div>
 
 <h2>Administrador 👨‍⚖️</h2>
-<div>
+<div align='center'>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.png"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.png"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.png"/>
@@ -111,7 +113,7 @@ O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.s
 
 <h2>Cliente 🙂</h2>
 
-<div>
+<div align='center'>
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_client.png"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking.png"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/type_of_payment.png"/>
