@@ -94,31 +94,31 @@ O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.s
 <h2>Utilizador</h2>
 
 <div align='center'>
-<img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.jpg"/>
-<img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.jpg"/>
+<img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.png"/>
+<img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.png"/>
 </div>
 
 <h2>Administrador 👨‍⚖️</h2>
 <div>
-<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.jpg"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.png"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.png"/>
-<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.jpg"/>
-<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.jpg"/>
-<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/clients.jpg"/>
-<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/stats.jpg"/>
-<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/profile.jpg"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/clients.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/stats.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/profile.png"/>
 </div>
 
 <h2>Cliente 🙂</h2>
 
 <div>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_client.jpg"/>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking.jpg"/>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/type_of_payment.jpg"/>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking_history.jpg"/>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/check_booking.jpg"/>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/cancel_booking.jpg"/>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.jpg"/>
+<img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_client.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/type_of_payment.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking_history.png"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/check_booking.png"/>
+<img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/cancel_booking.png"/>
+<img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.png"/>
 </div>
 
 
