@@ -1,11 +1,14 @@
 # Projeto dos autocarros 🚌
 
 ## Objetivo do projeto ⭐
-Este foi projeto do 1º trimestre a matéria lecionada foi java procedimental e java orientada a objectos.
+Este foi projeto do 1º trimestre a matéria lecionada foi java procedimental e java orientado a objectos.
 
 ## Problema 🚩
 Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma nova aplicação para a gestão das requisições dos autocarros disponíveis e de operações usualmente efetuadas (consultas, reservas, pagamentos, etc).
 Caso pretenda saber mais sobre o problema ler o enunciado que está no repositório.
+
+<h2> Ferramentas 🔧</h2>
+O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.swing para frontend.
 
 ## Requisitos 📋
 
@@ -111,9 +114,8 @@ Caso pretenda saber mais sobre o problema ler o enunciado que está no repositó
 <img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking_history.JPG"/>
 <img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/check_booking.JPG"/>
 <img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/cancel_booking.JPG"/>
-<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.JPG/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.JPG"/>
 </div>
-
 
 
 
