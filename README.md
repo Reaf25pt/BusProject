@@ -91,13 +91,33 @@ Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma
 <img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.JPG"/>
 </div>
 
-<h2>Administrador</h2>
-<div align="center">
+<h2>Administrador 👨‍⚖️</h2>
+<div>
 <img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.JPG"/>
 <img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.JPG"/>
 <img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.JPG"/>
 <img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/clients.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/stats.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/profile.JPG"/>
 </div>
+
+<h2>Cliente 🙂</h2>
+
+<div>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_client.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/type_of_payment.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking_history.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/check_booking.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/cancel_booking.JPG"/>
+<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.JPG/>
+</div>
+
+
+
+
+
 
 
 
