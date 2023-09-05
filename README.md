@@ -96,30 +96,46 @@ O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.s
 <h2>Utilizador</h2>
 
 <div align='center'>
+    <h3>Login</h4>
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.png"/>
+      <h3>Registo</h4>
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.png"/>
 </div>
 
 <h2>Administrador 👨‍⚖️</h2>
 <div align='center'>
+<h3>Layout Administrador</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.png"/>
+<h3>Adicionar Administrador</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.png"/>
+<h3>Motoristas</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.png"/>
+<h3>Autocarros</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.png"/>
+<h3>Clientes</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/clients.png"/>
+<h3>Estatisticas</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/stats.png"/>
+<h3>Perfil</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/profile.png"/>
 </div>
 
 <h2>Cliente 🙂</h2>
 
 <div align='center'>
+<h3>Layout do cliente</h4>
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_client.png"/>
+<h3>Reservar</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking.png"/>
+<h3>Pagamentos</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/type_of_payment.png"/>
+<h3>Histórico de reservas</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking_history.png"/>
+<h3>Consulta de reservas</h4>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/check_booking.png"/>
+<h3>Cancelar reservas</h4>
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/cancel_booking.png"/>
+<h3>Alterar plano</h4>
 <img src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.png"/>
 </div>
 
