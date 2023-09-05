@@ -101,7 +101,7 @@ O IDE foi IntelliJ, a linguagem de programação foi Java para backend e javax.s
 <h2>Administrador 👨‍⚖️</h2>
 <div>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.jpg"/>
-<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.jpg"/>
+<img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.png"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.jpg"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.jpg"/>
 <img  src="https://github.com/Reaf25pt/BusProject/blob/main/layout/clients.jpg"/>
