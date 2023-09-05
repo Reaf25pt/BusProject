@@ -4,8 +4,8 @@
 Este foi projeto do 1º trimestre a matéria lecionada foi java procedimental e java orientada a objectos.
 
 ## Problema 🚩
-
 Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma nova aplicação para a gestão das requisições dos autocarros disponíveis e de operações usualmente efetuadas (consultas, reservas, pagamentos, etc).
+Caso pretenda saber mais sobre o problema ler o enunciado que está no repositório.
 
 ## Requisitos 📋
 
@@ -86,32 +86,32 @@ Uma empresa de autocarros “AoR - Autocarros” está a planear desenvolver uma
 
 <h2>Utilizador</h2>
 
-<div align="center">
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.JPG"/>
+<div align='center'>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/login.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/register.JPG"/>
 </div>
 
 <h2>Administrador 👨‍⚖️</h2>
 <div>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/clients.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/stats.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/profile.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_admin.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/add_admin.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/drivers.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/buses.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/clients.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/stats.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/profile.JPG"/>
 </div>
 
 <h2>Cliente 🙂</h2>
 
 <div>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_client.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/type_of_payment.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking_history.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/check_booking.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/cancel_booking.JPG"/>
-<img height=300 weight=300 src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.JPG/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/layout_client.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/type_of_payment.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/booking_history.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/check_booking.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/cancel_booking.JPG"/>
+<img width="500" height="500" src="https://github.com/Reaf25pt/BusProject/blob/main/layout/changeplan.JPG/>
 </div>
 
 
